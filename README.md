@@ -3,5 +3,5 @@ Web scraping program that takes a url of one of the shopping departments of The 
 - Product Brand
 - Product Description
 - Original Selling price
-- Final Price
+- Final Price <br>
 To be used for future data analysis projects.
